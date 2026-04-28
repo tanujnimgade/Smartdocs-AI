@@ -1,0 +1,9 @@
+streamlit
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-text-splitters
+faiss-cpu
+transformers
+sentence-transformers
+pypdf
+torch --index-url https://download.pytorch.org/whl/cpu
