@@ -25,3 +25,9 @@ Study material
 
 👨‍💻 Author
 Tanuj
+
+## 📸 Demo
+
+![Upload Screen](upload.png)
+![Chat UI](chat.png)
+![Answer Output](answer.png)
